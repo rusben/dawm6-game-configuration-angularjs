@@ -1,7 +1,7 @@
-dawm6-factory-service-provider-angularjs
-DAWM6 Factory, Service & Provider AngularJS is a schoolar project to introduce AngularJS framework.
+dawm6-game-configuration-angularjs
+DAWM6 Game Configuration AngularJS is a schoolar project to introduce AngularJS framework.
 
-It includes some Factory, Service & Provider examples of use.
+It includes some Factory & Provider examples of use.
 
 # Demo
 https://rusben.github.io/dawm6-game-configuration-angularjs/
@@ -10,15 +10,15 @@ https://rusben.github.io/dawm6-game-configuration-angularjs/
 
   ng-app
 
-  ng-blur
-
-  ng-change
-
   ng-click
 
   ng-controller
-
-  ng-model
-  
+   
   ng-show
+
+  factory
+
+  provider
+
+
 
