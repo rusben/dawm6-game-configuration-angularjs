@@ -1,4 +1,4 @@
-dawm6-game-configuration-angularjs
+#dawm6-game-configuration-angularjs
 DAWM6 Game Configuration AngularJS is a schoolar project to introduce AngularJS framework.
 
 It includes some Factory & Provider examples of use.
@@ -10,15 +10,9 @@ https://rusben.github.io/dawm6-game-configuration-angularjs/
 
   ng-app
 
-  ng-click
-
   ng-controller
    
   ng-show
-
-  factory
-
-  provider
 
 
 
