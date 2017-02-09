@@ -4,7 +4,7 @@ DAWM6 Factory, Service & Provider AngularJS is a schoolar project to introduce A
 It includes some Factory, Service & Provider examples of use.
 
 # Demo
-https://rusben.github.io/dawm6-factory-service-provider-angularjs/
+https://rusben.github.io/dawm6-game-configuration-angularjs/
 
 # AngularJS Tags
 
